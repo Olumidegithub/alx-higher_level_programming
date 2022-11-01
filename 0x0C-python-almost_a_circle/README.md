@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x0C. Python - Almost a circle
 
 By Guillaume
@@ -1951,3 +1952,6 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x0C-python-almost_a_circle
 
 File: models/base.py
+=======
+
+>>>>>>> 774edea1a08c58f7ac251504cbc3f07356a88d61
